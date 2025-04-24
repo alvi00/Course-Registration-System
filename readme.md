@@ -6,21 +6,21 @@ This is a simple course registration system written in C++. It uses **Singly Lin
 
 ## ✅ Features
 
-- 👨‍🎓 Student can:
+- Student can:
 
   - Register and log in
   - View all courses
   - Register for a course
   - Drop a course
 
-- 🧑‍💼 Admin can:
+- Admin can:
   - Add, update, or delete courses
   - View all students and courses
   - Delete a student
 
 ---
 
-## 🧱 Data Structures Used
+## Data Structures Used
 
 - Singly Linked List for:
   - Students
@@ -29,11 +29,11 @@ This is a simple course registration system written in C++. It uses **Singly Lin
 
 ---
 
-## 🛠️ Compilation Instructions
+## Compilation Instructions
 
 Make sure you have **g++** installed on your system.
 
-### 🔸 If all files are in one folder:
+### If all files are in one folder:
 
 Open terminal or command prompt in that folder, then run:
 
@@ -48,7 +48,7 @@ course_registration
 
 ---
 
-## 🧪 Sample Test Scenarios
+## Sample Test Scenarios
 
 - Register a new student
 - Log in as student or admin
@@ -72,7 +72,3 @@ course_registration
 | `global.h/.cpp`         | Global variables for student & course list |
 
 ---
-
-## 🧑‍💻 Made for Educational Purposes
-
-This project is for learning C++ and understanding how **linked lists** work in a real-world system like course management.
