@@ -4,7 +4,7 @@ This is a simple course registration system written in C++. It uses **Singly Lin
 
 ---
 
-## ✅ Features
+## Features
 
 - Student can:
 
@@ -58,7 +58,7 @@ course_registration
 
 ---
 
-## 📁 File Overview
+## File Overview
 
 | File                    | Purpose                                    |
 | ----------------------- | ------------------------------------------ |
